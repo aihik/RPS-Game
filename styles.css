@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+}
+
+.game--area {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
